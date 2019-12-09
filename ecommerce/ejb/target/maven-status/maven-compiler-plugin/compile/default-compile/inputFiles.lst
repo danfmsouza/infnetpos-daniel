@@ -1,0 +1,7 @@
+/home/danfmsouza/git/ecommerce/ejb/src/main/java/br/edu/infnet/ecommerce/ejb/CarrinhoEjb.java
+/home/danfmsouza/git/ecommerce/ejb/src/main/java/br/edu/infnet/ecommerce/mb/ClienteMb.java
+/home/danfmsouza/git/ecommerce/ejb/src/main/java/br/edu/infnet/ecommerce/modelo/Carrinho.java
+/home/danfmsouza/git/ecommerce/ejb/src/main/java/br/edu/infnet/ecommerce/ejb/ProdutoEjb.java
+/home/danfmsouza/git/ecommerce/ejb/src/main/java/br/edu/infnet/ecommerce/jms/ConsumerJms.java
+/home/danfmsouza/git/ecommerce/ejb/src/main/java/br/edu/infnet/ecommerce/modelo/Cliente.java
+/home/danfmsouza/git/ecommerce/ejb/src/main/java/br/edu/infnet/ecommerce/modelo/Produto.java

@@ -1,0 +1,7 @@
+/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/SwaggerConfig.java
+/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/model/Cliente.java
+/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/security/SecurityConfig.java
+/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/model/persistence/ClienteRepository.java
+/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/controller/ClienteController.java
+/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/service/ClienteService.java
+/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/LojaVirtualApplication.java

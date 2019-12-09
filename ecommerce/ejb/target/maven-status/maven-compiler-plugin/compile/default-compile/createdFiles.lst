@@ -1,0 +1,8 @@
+br/edu/infnet/ecommerce/ejb/ProdutoEjb.class
+br/edu/infnet/ecommerce/modelo/Produto.class
+br/edu/infnet/ecommerce/modelo/Cliente.class
+br/edu/infnet/ecommerce/mb/ClienteMb$1.class
+br/edu/infnet/ecommerce/mb/ClienteMb.class
+br/edu/infnet/ecommerce/jms/ConsumerJms.class
+br/edu/infnet/ecommerce/modelo/Carrinho.class
+br/edu/infnet/ecommerce/ejb/CarrinhoEjb.class

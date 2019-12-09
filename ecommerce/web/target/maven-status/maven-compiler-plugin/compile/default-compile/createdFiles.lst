@@ -1,0 +1,5 @@
+br/edu/infnet/ecommerce/servlet/ClienteServlet.class
+br/edu/infnet/ecommerce/servlet/ProducerJms.class
+br/edu/infnet/ecommerce/servlet/CarrinhoServlet.class
+br/edu/infnet/ecommerce/servlet/ComprarServlet.class
+br/edu/infnet/ecommerce/servlet/ProdutoSerlet.class
