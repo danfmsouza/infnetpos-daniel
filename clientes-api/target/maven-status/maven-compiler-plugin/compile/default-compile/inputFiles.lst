@@ -1,7 +1,7 @@
-/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/SwaggerConfig.java
-/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/model/Cliente.java
-/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/security/SecurityConfig.java
-/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/model/persistence/ClienteRepository.java
-/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/controller/ClienteController.java
-/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/service/ClienteService.java
-/home/danfmsouza/git/lojaonline/lojavirtiual/src/main/java/br/edu/infnet/lojavirtiual/LojaVirtualApplication.java
+/home/danfmsouza/git/infnetpos-daniel/clientes-api/src/main/java/br/edu/infnet/lojavirtual/SwaggerConfig.java
+/home/danfmsouza/git/infnetpos-daniel/clientes-api/src/main/java/br/edu/infnet/lojavirtual/LojaVirtualApplication.java
+/home/danfmsouza/git/infnetpos-daniel/clientes-api/src/main/java/br/edu/infnet/lojavirtual/model/Cliente.java
+/home/danfmsouza/git/infnetpos-daniel/clientes-api/src/main/java/br/edu/infnet/lojavirtual/security/SecurityConfig.java
+/home/danfmsouza/git/infnetpos-daniel/clientes-api/src/main/java/br/edu/infnet/lojavirtual/model/persistence/ClienteRepository.java
+/home/danfmsouza/git/infnetpos-daniel/clientes-api/src/main/java/br/edu/infnet/lojavirtual/controller/ClienteController.java
+/home/danfmsouza/git/infnetpos-daniel/clientes-api/src/main/java/br/edu/infnet/lojavirtual/service/ClienteService.java
